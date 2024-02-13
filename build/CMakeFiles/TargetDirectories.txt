@@ -1,5 +1,0 @@
-/home/trevorcox/Zengon/build/CMakeFiles/zengon.dir
-/home/trevorcox/Zengon/build/CMakeFiles/clear.dir
-/home/trevorcox/Zengon/build/CMakeFiles/install_target.dir
-/home/trevorcox/Zengon/build/CMakeFiles/edit_cache.dir
-/home/trevorcox/Zengon/build/CMakeFiles/rebuild_cache.dir

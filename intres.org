@@ -1,2 +1,0 @@
-lunign the sdl2 lib for cpp
-and yes cpp not c

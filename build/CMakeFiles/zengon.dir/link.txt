@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/zengon.dir/main.cpp.o -o zengon  /usr/lib/libSDL2-2.0.so.0.3000.0 
